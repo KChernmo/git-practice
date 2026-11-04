@@ -3,7 +3,7 @@
 using namespace std;
 
 int power(int n) {
-    return n*n;
+    return n*n*n;
 }
 
 int main() {
