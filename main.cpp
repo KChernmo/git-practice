@@ -7,3 +7,4 @@ int main() {
  cout << power(5) << "\n";
  return 0;
 }
+
